@@ -13,7 +13,7 @@ $(document).ready(function() {
     alert("This is an image, in the case you didn't have notice it ;-) ! LOL");
   });
 
-  $("button.clickable").click(function() {
+  $("button").click(function() {
     $("body").addClass("blue-background");
   });
 
