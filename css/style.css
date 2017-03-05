@@ -1,0 +1,78 @@
+.initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable: hover {
+  text-decoration: underline;
+}
+
+.secondary-hidden {
+  display: none;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2: hover {
+  text-decoration: underline;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.btn-success {
+  text-decoration-color: black;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#red {
+  background-color: red;
+}
+
+#white {
+  background-color: white;
+  }
+
+p {
+  color: black;
+}
+
+.highLight {
+  background-color: lightblue;
+  border: solid 1px;
+}
